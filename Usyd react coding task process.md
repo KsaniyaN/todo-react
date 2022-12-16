@@ -1,8 +1,4 @@
 # Working on task
-
-First of all, the last time I worked with React was 3 years ago.\
-So, I'm taking some time to refresh the basic concepts of this library.
-
 Not so long ago I was building a similar ToDo list on Vue3. So, the task is familiar for me.
 
 I'll divide it into a few steps\User stories\
@@ -24,7 +20,5 @@ I'll divide it into a few steps\User stories\
 
     ToDo:
 	> tests (App.test.js)\
-
-Wed, 02.11, 10.40am - starting the actual challenge
 	
 
